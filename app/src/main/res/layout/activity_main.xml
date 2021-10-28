@@ -51,9 +51,8 @@
                     android:id="@+id/btn"
                     android:layout_width="214dp"
                     android:layout_height="wrap_content"
-                    android:onClick="LoadSession"
-                    android:text="iniciar sesión"
                     android:backgroundTint="#3F51B5"
+                    android:text="iniciar sesión"
                     app:cornerRadius="25dp" />
 
                 <Button
