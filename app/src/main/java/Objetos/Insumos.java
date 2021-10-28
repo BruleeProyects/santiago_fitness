@@ -7,7 +7,7 @@ public class Insumos {
 
     private int id;
     private String[] insumos = {"Mancuernas", "Barras", "Press Banca", "Puching Bag", "Guantes", "Corredora"};
-    private int precios[] = {30000,12000,120000,45000};
+    private int precios[] = {30000,12000,120000,45000, 3500, 43000};
     private int stock;
 
     public Insumos()
